@@ -11,6 +11,6 @@
 - Cliquez sur le bouton **Cours** pour entrer dans le site.
 - Vous n'allez rien voir de spécial, il faudra que vous soyez enregistré dans un cours pour voir d'autres détails du cours.
 
-La vidéo de ce tutoriel est disponible [ici](https://youtu.be/LE89pI3tWBA)
+La vidéo de ce tutoriel est disponible [ici](https://youtu.be/CPMugJEtD5c)
 
 
